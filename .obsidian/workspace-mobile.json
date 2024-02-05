@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Курс по python.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -131,6 +131,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d755b486d9328c6",
+  "active": "dc0fb802e25ed3a3",
   "lastOpenFiles": []
 }
