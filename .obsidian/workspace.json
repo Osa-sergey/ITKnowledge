@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "59846d6b4ae1c512",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0a2da3eeaaaa80c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44734d7c8a959630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08b494e4e254bf11",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2c3bf1e42539a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0371326555596480",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6163fa2111c157ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4eccf503197c7dc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2733925d2a908a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60e8bbdab9ea76f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf4cd456f65444a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Работа с Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e5e562490a89446",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Работа с Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "419fd750a7713a29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab50a3e01d650257",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Работа с Git.md"
+              }
+            }
+          },
+          {
+            "id": "5b637fb96e08c331",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0371326555596480",
+  "lastOpenFiles": [
+    "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
+    "Курс по ОС.md",
+    "Python/Вступительное занятие установка окружений.md",
+    "imgs/Pasted image 20240210004309.png",
+    "Pasted image 20240210004240.png",
+    "Работа с Git.md",
+    "imgs/Pasted image 20240210003136.png",
+    "imgs/Pasted image 20240210003027.png",
+    "imgs",
+    "Курс по python.md",
+    "icons/icon-brew/BulletList.svg",
+    "icons/icon-brew",
+    "icons/icon-brew.zip",
+    "icons/remix-icons.zip",
+    "icons/font-awesome-solid.zip",
+    "icons/font-awesome-brands.zip",
+    "icons/list.svg",
+    "icons/list-ul-alt-1-svgrepo-com.svg",
+    "icons",
+    "Новая папка",
+    "4416293.png",
+    "OS",
+    "jl3L-qNOV1g.jpg",
+    "20220712_164224.jpg"
+  ]
+}
