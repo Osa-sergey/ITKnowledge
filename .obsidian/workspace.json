@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0a2da3eeaaaa80c",
+        "id": "21959246b099d8f3",
         "type": "tabs",
         "children": [
           {
-            "id": "44734d7c8a959630",
+            "id": "dcf3766a13486c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с Git.md",
+                "file": "Техи/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с Git.md",
+                "file": "Техи/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с Git.md",
+                "file": "Техи/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с Git.md"
+                "file": "Техи/Git.md"
               }
             }
           },
@@ -155,18 +155,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0371326555596480",
+  "active": "dcf3766a13486c3f",
   "lastOpenFiles": [
+    "Курс по python.md",
+    "Техи/Git.md",
+    "Техи",
+    "Python/Вступительное занятие установка окружений.md",
     "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
     "Курс по ОС.md",
-    "Python/Вступительное занятие установка окружений.md",
     "imgs/Pasted image 20240210004309.png",
     "Pasted image 20240210004240.png",
-    "Работа с Git.md",
     "imgs/Pasted image 20240210003136.png",
     "imgs/Pasted image 20240210003027.png",
     "imgs",
-    "Курс по python.md",
     "icons/icon-brew/BulletList.svg",
     "icons/icon-brew",
     "icons/icon-brew.zip",
