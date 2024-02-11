@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21959246b099d8f3",
+        "id": "3b52f82f1c29d436",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf3766a13486c3f",
+            "id": "0696ba02169ca6d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Курс по ОС.md",
+                "file": "Техи/Docker/Как правильно собирать образы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Курс по ОС.md",
+                "file": "Техи/Docker/Как правильно собирать образы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Курс по ОС.md",
+                "file": "Техи/Docker/Как правильно собирать образы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Курс по ОС.md"
+                "file": "Техи/Docker/Как правильно собирать образы.md"
               }
             }
           },
@@ -155,14 +155,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcf3766a13486c3f",
+  "active": "0696ba02169ca6d6",
   "lastOpenFiles": [
-    "Курс по python.md",
-    "Техи/Dvc.md",
-    "Техи/Docker.md",
-    "Техи/Git.md",
-    "Python/Вступительное занятие установка окружений.md",
+    "Техи/Docker/Инструменты/WatchTower.md",
+    "Техи/Docker/Docker оглавление.md",
+    "Техи/Docker/Основные команды Docker.md",
+    "Техи/Docker/Как правильно собирать образы.md",
+    "Техи/Docker/Инструменты/Portainer.md",
     "Курс по ОС.md",
+    "Техи/Docker/Инструменты",
+    "Техи/Untitled/Untitled",
+    "Техи/Docker",
+    "Техи/Dvc.md",
+    "Техи/Git.md",
+    "Курс по python.md",
+    "Python/Вступительное занятие установка окружений.md",
     "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
     "Техи",
     "Работа с Git.md",
@@ -179,10 +186,7 @@
     "icons/font-awesome-brands.zip",
     "icons/list.svg",
     "icons/list-ul-alt-1-svgrepo-com.svg",
-    "icons",
-    "Новая папка",
     "4416293.png",
-    "OS",
     "jl3L-qNOV1g.jpg",
     "20220712_164224.jpg"
   ]
