@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техи/Git.md",
+                "file": "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техи/Git.md",
+                "file": "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техи/Git.md",
+                "file": "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техи/Git.md"
+                "file": "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "dcf3766a13486c3f",
   "lastOpenFiles": [
-    "Курс по python.md",
-    "Техи/Git.md",
-    "Техи",
-    "Python/Вступительное занятие установка окружений.md",
-    "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
     "Курс по ОС.md",
+    "Техи/Git.md",
+    "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
+    "Python/Вступительное занятие установка окружений.md",
+    "Курс по python.md",
+    "Техи",
+    "Работа с Git.md",
     "imgs/Pasted image 20240210004309.png",
     "Pasted image 20240210004240.png",
     "imgs/Pasted image 20240210003136.png",
