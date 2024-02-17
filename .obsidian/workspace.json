@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техи/Docker/Как правильно собирать образы.md",
+                "file": "Техи/Docker/Основные команды Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техи/Docker/Как правильно собирать образы.md",
+                "file": "Техи/Docker/Основные команды Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техи/Docker/Как правильно собирать образы.md",
+                "file": "Техи/Docker/Основные команды Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техи/Docker/Как правильно собирать образы.md"
+                "file": "Техи/Docker/Основные команды Docker.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "0696ba02169ca6d6",
   "lastOpenFiles": [
+    "Техи/Docker/Как правильно собирать образы.md",
     "Техи/Docker/Инструменты/WatchTower.md",
     "Техи/Docker/Docker оглавление.md",
     "Техи/Docker/Основные команды Docker.md",
-    "Техи/Docker/Как правильно собирать образы.md",
     "Техи/Docker/Инструменты/Portainer.md",
     "Курс по ОС.md",
     "Техи/Docker/Инструменты",
