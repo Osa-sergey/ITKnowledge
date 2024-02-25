@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техи/Docker/Основные команды Docker.md",
+                "file": "Техи/Dvc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Техи/Docker/Основные команды Docker.md",
+                "file": "Техи/Dvc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Техи/Docker/Основные команды Docker.md",
+                "file": "Техи/Dvc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техи/Docker/Основные команды Docker.md"
+                "file": "Техи/Dvc.md"
               }
             }
           },
@@ -157,19 +157,19 @@
   },
   "active": "0696ba02169ca6d6",
   "lastOpenFiles": [
-    "Техи/Docker/Как правильно собирать образы.md",
-    "Техи/Docker/Инструменты/WatchTower.md",
     "Техи/Docker/Docker оглавление.md",
-    "Техи/Docker/Основные команды Docker.md",
-    "Техи/Docker/Инструменты/Portainer.md",
+    "Курс по python.md",
+    "Техи/Dvc.md",
     "Курс по ОС.md",
+    "Техи/Docker/Инструменты/WatchTower.md",
+    "Техи/Docker/Основные команды Docker.md",
+    "Техи/Docker/Как правильно собирать образы.md",
+    "Техи/Docker/Инструменты/Portainer.md",
+    "Python/Вступительное занятие установка окружений.md",
     "Техи/Docker/Инструменты",
     "Техи/Untitled/Untitled",
     "Техи/Docker",
-    "Техи/Dvc.md",
     "Техи/Git.md",
-    "Курс по python.md",
-    "Python/Вступительное занятие установка окружений.md",
     "OS/Вступительное занятие. Основные понятия ОС, ее структура и функции.md",
     "Техи",
     "Работа с Git.md",

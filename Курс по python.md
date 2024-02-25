@@ -7,7 +7,7 @@
 6) Автотесты настройка unit тестов
 7) Работа с AirFlow и ETL инструменты 
 8) Метрики и мониторинг сервисов (Prometheus, Grafana)
-9) MLFlow, ClearML, [[Dvc]]
+9) MLFlow, ClearML, [[Dvc]], WanDB
 10) инструменты отладки (профайлеты, линтеры)
 11) паттерны GOF
 
